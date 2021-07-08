@@ -63,3 +63,20 @@ Day by day I seek to improve my skills and learn new technologies.
 <div class="headers" style="font-size: x-large;">
 <h2 align="center"><strong>👨‍💻 Repositories 👨‍💻</strong></h2>
 </div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ignaciocervino/PixabayAPI-js" title="Pixabay API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ignaciocervino&repo=PixabayAPI-js&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ignaciocervino/CryptoPrices-js" title="Crypto Prices API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ignaciocervino&repo=CryptoPrices-js&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ignaciocervino/filterSearchFields-js" title="Filter Search Fields"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ignaciocervino&repo=filterSearchFields-js&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ignaciocervino/veterinaryPatients-js" title="Veterinary Patients"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ignaciocervino&repo=veterinaryPatients-js&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ignaciocervino/weatherAPI-js" title="Weather API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ignaciocervino&repo=weatherAPI-js&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ignaciocervino/weeklyBudget-js" title="Weekly Budget"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ignaciocervino&repo=weeklyBudget-js&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/ignaciocervino?tab=repositories" title="Show all repositories">🔎 Show all 🔍</a>
+</h4>

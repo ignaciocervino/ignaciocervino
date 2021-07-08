@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="./images/linkedin.svg" width="30px" alt="LinkedIn"></a>
+  <a href="https://in.linkedin.com/in/ignaciocervino"><img src="./images/linkedin.svg" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;  <a href="mailto:ignaciocervino@gmail.com"><img src="./images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp; 
 </h5>
 <p align="center" class="presentation">

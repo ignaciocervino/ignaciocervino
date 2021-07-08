@@ -11,7 +11,8 @@
   <a href="https://in.linkedin.com/in/ignaciocervino"><img src="./images/linkedin.svg" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;  <a href="mailto:ignaciocervino@gmail.com"><img src="./images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp; 
 </h5>
-<p align="center" class="presentation">
+<p align="center" class="presentation" style="font-family: 'Rajdhani', sans-serif;
+    font-size: large;">
   Hi, I'm Ignacio Cerviño, Software Developer from Argentina <img src='./images/AR@2x.png?raw=true' width='20' height='13'>
   <br>
   <br>

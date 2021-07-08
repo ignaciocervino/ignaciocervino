@@ -27,7 +27,7 @@ Day by day I seek to improve my skills and learn new technologies.
 
 <hr>
 <div class="headers" style="font-size: x-large;">
-<h2 align="center" >Some technologies I use</h2>
+<h2 align="center" ><strong>Some technologies I use</strong></h2>
 </div>
 <br>
 <p align="center">
@@ -61,5 +61,5 @@ Day by day I seek to improve my skills and learn new technologies.
 
 <hr>
 <div class="headers" style="font-size: x-large;">
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center"><strong>👨‍💻 Repositories 👨‍💻</strong></h2>
 </div>

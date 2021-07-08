@@ -45,14 +45,13 @@ Day by day I seek to improve my skills and learn new technologies.
 </p>
 <hr>
 <br>
-<div class="headers">
-<h2 align="center" class="headers">📊 Stats 📊</h2>
-</div>
-<br/>
-<p align="center">
-<img align="center" width="100%" src="https://git-stats.chandan.dev/" alt="Ignacio's Public Github Stats">
-</p>  
 
+<br/>
+<!-- 
+<p align="center">
+<img align="center" width="100%" src="https://git-stats.chandan.dev/api?title_color=fff&icon_color=109eff&bg_color=151515&text_color=9f9f9f&username=ignaciocervino&show_icons=true" alt="Ignacio's Public Github Stats">
+</p>  
+-->
 <p align="center">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ignaciocervino&theme=dark&hide_border=true" alt="Ignacio's git commit streak" />
 </p>

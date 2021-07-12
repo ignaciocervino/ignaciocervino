@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap" rel="stylesheet">
 
 <h1 align="center">
-    <img src="./images/banner.jpg">
+    <img src="./images/bannerWithoutLinks.jpg">
 </h1>
 
 <h5 align="center">

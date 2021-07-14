@@ -54,7 +54,7 @@ Day by day I seek to improve my skills and learn new technologies.
 </p>  
 -->
 <p align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ignaciocervino&theme=dark&hide_border=true" alt="Ignacio's git commit streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ignaciocervino&theme=dark&hide_border=true" alt="Ignacio's git commit streak" />
 </p>
 
 <br/>

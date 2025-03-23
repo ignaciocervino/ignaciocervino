@@ -11,7 +11,7 @@
   <a href="mailto:ignaciocervino@gmail.com"><img src="./images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp; 
 </h5>
 <p align="left" class="presentation" style="font-family: 'Rajdhani', sans-serif; font-size: large;">
-    👋🏻 Hi, I'm Ignacio Cerviño, Software enthusiast currently working as an iOS Developer.<br><br>
-    💻 I’ve been fascinated by computers since childhood. In school, I discovered programming while learning to code in C.<br><br>
+    👋🏻 Hey, I'm Ignacio Cerviño — a Software Engineer building native apps across the Apple ecosystem.<br><br>
+    💻 I’ve been curious about tech since childhood. In school, I discovered programming while learning to code in C.<br><br>
     ⚽️ Outside of work, you’ll likely find me playing tennis on the court, or cheering for soccer and basketball.
 </p>
